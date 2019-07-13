@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yosano/static/css/main.2cce8147.chunk.css",
+    "main.js": "/yosano/static/js/main.962c3729.chunk.js",
+    "main.js.map": "/yosano/static/js/main.962c3729.chunk.js.map",
+    "runtime~main.js": "/yosano/static/js/runtime~main.c600b025.js",
+    "runtime~main.js.map": "/yosano/static/js/runtime~main.c600b025.js.map",
+    "static/js/2.b41502e9.chunk.js": "/yosano/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/yosano/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/yosano/index.html",
+    "precache-manifest.2abcc533282b231528edb03121efeff6.js": "/yosano/precache-manifest.2abcc533282b231528edb03121efeff6.js",
+    "service-worker.js": "/yosano/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/yosano/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/yosano/static/media/logo.5d5d9eef.svg"
+  }
+}
